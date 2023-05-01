@@ -1,4 +1,5 @@
 # EwnKit
+![EwnKit Preview](https://cdn.discordapp.com/attachments/1084435048025051178/1102492664772968548/image.png)
 
 EwnKit is a collection of Bash scripts designed to simplify the management of Ubuntu-based servers. It provides a simple and user-friendly interface to perform common tasks such as disabling IPv6, restarting SSH, stopping and starting PHP-FPM and Nginx, and managing Pterodactyl panels and wings.
 
